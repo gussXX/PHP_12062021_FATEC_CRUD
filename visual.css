@@ -1,0 +1,59 @@
+html,
+
+body{
+    height: 100%;
+    background-color:  #222d32;
+    font-family: "Roboto", sans-serif;
+}
+
+.one{
+    height: 100%;
+    background-color:  #222d32;
+    font-family: "Roboto", sans-serif;
+}
+
+.global-container{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #353535;
+}
+
+form{
+    padding-top: 10px;
+    font-size: 14px;
+    margin-top: 30px;
+}
+
+.btn{
+    width: 100%;
+   align-items: center;
+   align-content: center;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="check"],
+input[type="password"]{
+    background-color: #8c9aa1;
+    border: 2px;
+    border-radius: 10px;
+    margin-bottom:25px;
+}
+
+.login-forn{
+    width: 380px;
+    height: 450px;
+    margin: 20px;
+    background: #1a2226;
+    border-radius: 10px;
+}
+
+#cp{
+    width:50%;
+}
+
+#bk{
+    background-color: #1a2226;
+}
